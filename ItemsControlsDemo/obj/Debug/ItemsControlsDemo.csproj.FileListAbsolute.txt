@@ -1,0 +1,14 @@
+D:\Google Drive\Class Folders\Class CSC160\Course Retake Files\ItemsControlsDemo\ItemsControlsDemo\ItemsControlsDemo\bin\Debug\ItemsControlsDemo.exe.config
+D:\Google Drive\Class Folders\Class CSC160\Course Retake Files\ItemsControlsDemo\ItemsControlsDemo\ItemsControlsDemo\bin\Debug\ItemsControlsDemo.exe
+D:\Google Drive\Class Folders\Class CSC160\Course Retake Files\ItemsControlsDemo\ItemsControlsDemo\ItemsControlsDemo\bin\Debug\ItemsControlsDemo.pdb
+D:\Google Drive\Class Folders\Class CSC160\Course Retake Files\ItemsControlsDemo\ItemsControlsDemo\ItemsControlsDemo\obj\Debug\ItemsControlsDemo.csprojResolveAssemblyReference.cache
+D:\Google Drive\Class Folders\Class CSC160\Course Retake Files\ItemsControlsDemo\ItemsControlsDemo\ItemsControlsDemo\obj\Debug\MainWindow.g.cs
+D:\Google Drive\Class Folders\Class CSC160\Course Retake Files\ItemsControlsDemo\ItemsControlsDemo\ItemsControlsDemo\obj\Debug\App.g.cs
+D:\Google Drive\Class Folders\Class CSC160\Course Retake Files\ItemsControlsDemo\ItemsControlsDemo\ItemsControlsDemo\obj\Debug\ItemsControlsDemo_MarkupCompile.cache
+D:\Google Drive\Class Folders\Class CSC160\Course Retake Files\ItemsControlsDemo\ItemsControlsDemo\ItemsControlsDemo\obj\Debug\ItemsControlsDemo_MarkupCompile.lref
+D:\Google Drive\Class Folders\Class CSC160\Course Retake Files\ItemsControlsDemo\ItemsControlsDemo\ItemsControlsDemo\obj\Debug\MainWindow.baml
+D:\Google Drive\Class Folders\Class CSC160\Course Retake Files\ItemsControlsDemo\ItemsControlsDemo\ItemsControlsDemo\obj\Debug\ItemsControlsDemo.g.resources
+D:\Google Drive\Class Folders\Class CSC160\Course Retake Files\ItemsControlsDemo\ItemsControlsDemo\ItemsControlsDemo\obj\Debug\ItemsControlsDemo.Properties.Resources.resources
+D:\Google Drive\Class Folders\Class CSC160\Course Retake Files\ItemsControlsDemo\ItemsControlsDemo\ItemsControlsDemo\obj\Debug\ItemsControlsDemo.csproj.GenerateResource.Cache
+D:\Google Drive\Class Folders\Class CSC160\Course Retake Files\ItemsControlsDemo\ItemsControlsDemo\ItemsControlsDemo\obj\Debug\ItemsControlsDemo.exe
+D:\Google Drive\Class Folders\Class CSC160\Course Retake Files\ItemsControlsDemo\ItemsControlsDemo\ItemsControlsDemo\obj\Debug\ItemsControlsDemo.pdb

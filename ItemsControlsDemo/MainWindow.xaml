@@ -1,0 +1,28 @@
+﻿<Window x:Class="ItemsControlsDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ItemsControlsDemo"
+        mc:Ignorable="d"
+        Title="ItemsControls omeD" Height="350" Width="525">
+    <DockPanel LastChildFill="true">
+            <ComboBox x:Name="ComboBox" DockPanel.Dock="Left">
+
+            </ComboBox>
+            
+            
+            
+            
+        <StackPanel Background="AliceBlue">
+            <Label x:Name="DisplayLabel"
+                   FontSize="24"
+                   Background="AntiqueWhite"
+                   Margin="30"
+                   Content="{Binding ElementName=ItemListBox, Path=SelectedItem, Mode=OneWay}"
+                   HorizontalContentAlignment="Center"
+                   
+                   />
+        </StackPanel>
+    </DockPanel>
+</Window>

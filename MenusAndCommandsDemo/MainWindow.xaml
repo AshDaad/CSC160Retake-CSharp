@@ -1,0 +1,59 @@
+﻿<Window x:Class="MenusAndCommandsDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Menus and Commands Demo" Height="350" Width="525">
+    <!-- First, we have to set up the commands for our application-->
+    <Window.CommandBindings>
+        <!-- The good news is we have access to numerous pre-built command
+            objects. Two of these common commands are Close and Save-->
+
+        <!-- At the minimum, your CommandBinding objects should always have
+            values for the Command and Executed properties. The Command property
+            represents the Command object we'll be using, Executed is the event
+            we're handling. -->
+        <CommandBinding Command="Close"
+                        Executed="OtherClose_Click"/>
+                        <!--Executed="Close_Click"/>-->
+        <CommandBinding Command="Save"
+                        Executed="Save_Executed" />
+
+    </Window.CommandBindings>
+
+    <!-- InputBinding objects allow us to make custom hotkey relationships. We'll
+        make a hotkey for the Close command using Ctrl+C (which is normally the
+        hotkey for Copy). -->
+    <Window.InputBindings>
+        <!-- Key is the main keyboard key to be pressed, Modifiers allow for additional keys
+            like Ctrl and Alt to be used in the hotkey combination, and the Command property
+            binds to the Command object we wish to execute when the hotkey is pressed. -->
+        <KeyBinding Key="C"
+                    Modifiers="Control"
+                    Command="Close" />
+    </Window.InputBindings>
+
+    <StackPanel x:Name="mainPanel">
+        <!-- The Menu tag creates the menu bar while the MenuItem tags create the menu 
+            hierarchy. -->
+        <Menu>
+            <!-- This creates the File menu, which will contain the Close and Save options -->
+            <!-- The underscore (_) creates a pneumonic for the menu option. Tapping Alt
+                followed by the letter for the pneumonic will select that menu option. -->
+            <MenuItem Header="Fi_le">
+                <!-- While Close is a common command, it has no conventional keybinding
+                    associated with it. So, if we want to show the user the keybinding
+                    they should use with Close, we need to supply that through the 
+                    InputGestureText property. -->
+                <MenuItem Header="Cl_ose"
+                          Command="Close"
+                          InputGestureText="Ctrl+C"/>
+
+                <!-- Save is a common command that also has a common keybinding associated
+                    with it. As such, there is a keybinding implicitly set for Ctrl+S and
+                    the keybinding string will automatically appear in the menu when the 
+                    application is running, even though we didn't set InputGestureText. -->
+                <MenuItem Header="_Save"
+                          Command="Save" />
+            </MenuItem>
+        </Menu>
+    </StackPanel>
+</Window>

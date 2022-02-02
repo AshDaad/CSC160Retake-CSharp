@@ -1,0 +1,39 @@
+C:\Users\jkrebs\Desktop\Neumont_Current Quarter\CSC160 - 2014 Q3 - Joshua Krebs\Teaching Material\Demos\MenusAndCommandsDemo\MenusAndCommandsDemo\bin\Debug\MenusAndCommandsDemo.exe.config
+C:\Users\jkrebs\Desktop\Neumont_Current Quarter\CSC160 - 2014 Q3 - Joshua Krebs\Teaching Material\Demos\MenusAndCommandsDemo\MenusAndCommandsDemo\obj\Debug\MenusAndCommandsDemo.csprojResolveAssemblyReference.cache
+C:\Users\jkrebs\Desktop\Neumont_Current Quarter\CSC160 - 2014 Q3 - Joshua Krebs\Teaching Material\Demos\MenusAndCommandsDemo\MenusAndCommandsDemo\obj\Debug\MainWindow.baml
+C:\Users\jkrebs\Desktop\Neumont_Current Quarter\CSC160 - 2014 Q3 - Joshua Krebs\Teaching Material\Demos\MenusAndCommandsDemo\MenusAndCommandsDemo\obj\Debug\MainWindow.g.cs
+C:\Users\jkrebs\Desktop\Neumont_Current Quarter\CSC160 - 2014 Q3 - Joshua Krebs\Teaching Material\Demos\MenusAndCommandsDemo\MenusAndCommandsDemo\obj\Debug\App.g.cs
+C:\Users\jkrebs\Desktop\Neumont_Current Quarter\CSC160 - 2014 Q3 - Joshua Krebs\Teaching Material\Demos\MenusAndCommandsDemo\MenusAndCommandsDemo\obj\Debug\MenusAndCommandsDemo_MarkupCompile.cache
+C:\Users\jkrebs\Desktop\Neumont_Current Quarter\CSC160 - 2014 Q3 - Joshua Krebs\Teaching Material\Demos\MenusAndCommandsDemo\MenusAndCommandsDemo\obj\Debug\MenusAndCommandsDemo.g.resources
+C:\Users\jkrebs\Desktop\Neumont_Current Quarter\CSC160 - 2014 Q3 - Joshua Krebs\Teaching Material\Demos\MenusAndCommandsDemo\MenusAndCommandsDemo\obj\Debug\MenusAndCommandsDemo.Properties.Resources.resources
+C:\Users\jkrebs\Desktop\Neumont_Current Quarter\CSC160 - 2014 Q3 - Joshua Krebs\Teaching Material\Demos\MenusAndCommandsDemo\MenusAndCommandsDemo\obj\Debug\MenusAndCommandsDemo.csproj.GenerateResource.Cache
+C:\Users\jkrebs\Desktop\Neumont_Current Quarter\CSC160 - 2014 Q3 - Joshua Krebs\Teaching Material\Demos\MenusAndCommandsDemo\MenusAndCommandsDemo\bin\Debug\MenusAndCommandsDemo.exe
+C:\Users\jkrebs\Desktop\Neumont_Current Quarter\CSC160 - 2014 Q3 - Joshua Krebs\Teaching Material\Demos\MenusAndCommandsDemo\MenusAndCommandsDemo\bin\Debug\MenusAndCommandsDemo.pdb
+C:\Users\jkrebs\Desktop\Neumont_Current Quarter\CSC160 - 2014 Q3 - Joshua Krebs\Teaching Material\Demos\MenusAndCommandsDemo\MenusAndCommandsDemo\obj\Debug\MenusAndCommandsDemo.exe
+C:\Users\jkrebs\Desktop\Neumont_Current Quarter\CSC160 - 2014 Q3 - Joshua Krebs\Teaching Material\Demos\MenusAndCommandsDemo\MenusAndCommandsDemo\obj\Debug\MenusAndCommandsDemo.pdb
+C:\Users\jkrebs\Google Drive\CSC160 - 2017 Q3 - Joshua Krebs\Teaching Material\Demos_old\MenusAndCommandsDemo\MenusAndCommandsDemo\bin\Debug\MenusAndCommandsDemo.exe.config
+C:\Users\jkrebs\Google Drive\CSC160 - 2017 Q3 - Joshua Krebs\Teaching Material\Demos_old\MenusAndCommandsDemo\MenusAndCommandsDemo\bin\Debug\MenusAndCommandsDemo.exe
+C:\Users\jkrebs\Google Drive\CSC160 - 2017 Q3 - Joshua Krebs\Teaching Material\Demos_old\MenusAndCommandsDemo\MenusAndCommandsDemo\bin\Debug\MenusAndCommandsDemo.pdb
+C:\Users\jkrebs\Google Drive\CSC160 - 2017 Q3 - Joshua Krebs\Teaching Material\Demos_old\MenusAndCommandsDemo\MenusAndCommandsDemo\obj\Debug\MenusAndCommandsDemo.csprojResolveAssemblyReference.cache
+C:\Users\jkrebs\Google Drive\CSC160 - 2017 Q3 - Joshua Krebs\Teaching Material\Demos_old\MenusAndCommandsDemo\MenusAndCommandsDemo\obj\Debug\MainWindow.baml
+C:\Users\jkrebs\Google Drive\CSC160 - 2017 Q3 - Joshua Krebs\Teaching Material\Demos_old\MenusAndCommandsDemo\MenusAndCommandsDemo\obj\Debug\MainWindow.g.cs
+C:\Users\jkrebs\Google Drive\CSC160 - 2017 Q3 - Joshua Krebs\Teaching Material\Demos_old\MenusAndCommandsDemo\MenusAndCommandsDemo\obj\Debug\App.g.cs
+C:\Users\jkrebs\Google Drive\CSC160 - 2017 Q3 - Joshua Krebs\Teaching Material\Demos_old\MenusAndCommandsDemo\MenusAndCommandsDemo\obj\Debug\MenusAndCommandsDemo_MarkupCompile.cache
+C:\Users\jkrebs\Google Drive\CSC160 - 2017 Q3 - Joshua Krebs\Teaching Material\Demos_old\MenusAndCommandsDemo\MenusAndCommandsDemo\obj\Debug\MenusAndCommandsDemo.g.resources
+C:\Users\jkrebs\Google Drive\CSC160 - 2017 Q3 - Joshua Krebs\Teaching Material\Demos_old\MenusAndCommandsDemo\MenusAndCommandsDemo\obj\Debug\MenusAndCommandsDemo.Properties.Resources.resources
+C:\Users\jkrebs\Google Drive\CSC160 - 2017 Q3 - Joshua Krebs\Teaching Material\Demos_old\MenusAndCommandsDemo\MenusAndCommandsDemo\obj\Debug\MenusAndCommandsDemo.csproj.GenerateResource.Cache
+C:\Users\jkrebs\Google Drive\CSC160 - 2017 Q3 - Joshua Krebs\Teaching Material\Demos_old\MenusAndCommandsDemo\MenusAndCommandsDemo\obj\Debug\MenusAndCommandsDemo.exe
+C:\Users\jkrebs\Google Drive\CSC160 - 2017 Q3 - Joshua Krebs\Teaching Material\Demos_old\MenusAndCommandsDemo\MenusAndCommandsDemo\obj\Debug\MenusAndCommandsDemo.pdb
+D:\Google Drive\Class Folders\Class CSC160\Course Retake Files\MenusAndCommandsDemo\MenusAndCommandsDemo\bin\Debug\MenusAndCommandsDemo.exe.config
+D:\Google Drive\Class Folders\Class CSC160\Course Retake Files\MenusAndCommandsDemo\MenusAndCommandsDemo\bin\Debug\MenusAndCommandsDemo.exe
+D:\Google Drive\Class Folders\Class CSC160\Course Retake Files\MenusAndCommandsDemo\MenusAndCommandsDemo\bin\Debug\MenusAndCommandsDemo.pdb
+D:\Google Drive\Class Folders\Class CSC160\Course Retake Files\MenusAndCommandsDemo\MenusAndCommandsDemo\obj\Debug\MenusAndCommandsDemo.csprojResolveAssemblyReference.cache
+D:\Google Drive\Class Folders\Class CSC160\Course Retake Files\MenusAndCommandsDemo\MenusAndCommandsDemo\obj\Debug\MainWindow.baml
+D:\Google Drive\Class Folders\Class CSC160\Course Retake Files\MenusAndCommandsDemo\MenusAndCommandsDemo\obj\Debug\MainWindow.g.cs
+D:\Google Drive\Class Folders\Class CSC160\Course Retake Files\MenusAndCommandsDemo\MenusAndCommandsDemo\obj\Debug\App.g.cs
+D:\Google Drive\Class Folders\Class CSC160\Course Retake Files\MenusAndCommandsDemo\MenusAndCommandsDemo\obj\Debug\MenusAndCommandsDemo_MarkupCompile.cache
+D:\Google Drive\Class Folders\Class CSC160\Course Retake Files\MenusAndCommandsDemo\MenusAndCommandsDemo\obj\Debug\MenusAndCommandsDemo.g.resources
+D:\Google Drive\Class Folders\Class CSC160\Course Retake Files\MenusAndCommandsDemo\MenusAndCommandsDemo\obj\Debug\MenusAndCommandsDemo.Properties.Resources.resources
+D:\Google Drive\Class Folders\Class CSC160\Course Retake Files\MenusAndCommandsDemo\MenusAndCommandsDemo\obj\Debug\MenusAndCommandsDemo.csproj.GenerateResource.Cache
+D:\Google Drive\Class Folders\Class CSC160\Course Retake Files\MenusAndCommandsDemo\MenusAndCommandsDemo\obj\Debug\MenusAndCommandsDemo.exe
+D:\Google Drive\Class Folders\Class CSC160\Course Retake Files\MenusAndCommandsDemo\MenusAndCommandsDemo\obj\Debug\MenusAndCommandsDemo.pdb
