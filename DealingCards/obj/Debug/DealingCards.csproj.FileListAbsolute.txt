@@ -1,0 +1,8 @@
+D:\Google Drive\Class Folders\Class CSC160\VS Files\DealingCards\DealingCards\DealingCards\bin\Debug\DealingCards.exe.config
+D:\Google Drive\Class Folders\Class CSC160\VS Files\DealingCards\DealingCards\DealingCards\bin\Debug\DealingCards.exe
+D:\Google Drive\Class Folders\Class CSC160\VS Files\DealingCards\DealingCards\DealingCards\bin\Debug\DealingCards.pdb
+D:\Google Drive\Class Folders\Class CSC160\VS Files\DealingCards\DealingCards\DealingCards\obj\Debug\DealingCards.csprojResolveAssemblyReference.cache
+D:\Google Drive\Class Folders\Class CSC160\VS Files\DealingCards\DealingCards\DealingCards\obj\Debug\DealingCards.exe
+D:\Google Drive\Class Folders\Class CSC160\VS Files\DealingCards\DealingCards\DealingCards\obj\Debug\DealingCards.pdb
+D:\Google Drive\Class Folders\Class CSC160\VS Files\DealingCards\DealingCards\DealingCards\bin\Debug\FritzA_CIO.dll
+D:\Google Drive\Class Folders\Class CSC160\VS Files\DealingCards\DealingCards\DealingCards\bin\Debug\FritzA_CIO.pdb
