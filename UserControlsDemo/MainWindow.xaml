@@ -1,0 +1,15 @@
+﻿<Window x:Class="UserControlsDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UserControlsDemo"
+        xmlns:uc="clr-namespace:UserControlsDemo.Whatever"
+        mc:Ignorable="d"
+        Title="UsaerConetreolDemo" Height="350" Width="525">
+    <StackPanel>
+        <uc:UserControl1 fieldNameLabel="Name"/>
+        <uc:UserControl1 fieldNameLabel="Age"/>
+        <uc:UserControl1 fieldNameLabel="Location"/>
+    </StackPanel>
+</Window>
