@@ -1,0 +1,14 @@
+D:\Google Drive\Class Folders\Class CSC160\Course Retake Files\DataBindingexercise\DataBindingexercise\obj\Debug\DataBindingexercise.csprojResolveAssemblyReference.cache
+D:\Google Drive\Class Folders\Class CSC160\Course Retake Files\DataBindingexercise\DataBindingexercise\obj\Debug\MainWindow.g.cs
+D:\Google Drive\Class Folders\Class CSC160\Course Retake Files\DataBindingexercise\DataBindingexercise\obj\Debug\App.g.cs
+D:\Google Drive\Class Folders\Class CSC160\Course Retake Files\DataBindingexercise\DataBindingexercise\obj\Debug\DataBindingexercise_MarkupCompile.cache
+D:\Google Drive\Class Folders\Class CSC160\Course Retake Files\DataBindingexercise\DataBindingexercise\obj\Debug\DataBindingexercise_MarkupCompile.lref
+D:\Google Drive\Class Folders\Class CSC160\Course Retake Files\DataBindingexercise\DataBindingexercise\bin\Debug\DataBindingexercise.exe.config
+D:\Google Drive\Class Folders\Class CSC160\Course Retake Files\DataBindingexercise\DataBindingexercise\bin\Debug\DataBindingexercise.exe
+D:\Google Drive\Class Folders\Class CSC160\Course Retake Files\DataBindingexercise\DataBindingexercise\bin\Debug\DataBindingexercise.pdb
+D:\Google Drive\Class Folders\Class CSC160\Course Retake Files\DataBindingexercise\DataBindingexercise\obj\Debug\MainWindow.baml
+D:\Google Drive\Class Folders\Class CSC160\Course Retake Files\DataBindingexercise\DataBindingexercise\obj\Debug\DataBindingexercise.g.resources
+D:\Google Drive\Class Folders\Class CSC160\Course Retake Files\DataBindingexercise\DataBindingexercise\obj\Debug\DataBindingexercise.Properties.Resources.resources
+D:\Google Drive\Class Folders\Class CSC160\Course Retake Files\DataBindingexercise\DataBindingexercise\obj\Debug\DataBindingexercise.csproj.GenerateResource.Cache
+D:\Google Drive\Class Folders\Class CSC160\Course Retake Files\DataBindingexercise\DataBindingexercise\obj\Debug\DataBindingexercise.exe
+D:\Google Drive\Class Folders\Class CSC160\Course Retake Files\DataBindingexercise\DataBindingexercise\obj\Debug\DataBindingexercise.pdb

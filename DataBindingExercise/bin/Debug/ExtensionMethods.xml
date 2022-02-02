@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ExtensionMethods</name>
+    </assembly>
+    <members>
+        <member name="T:Extension_Lib.MyExtensions">
+            <summary>
+            A group of general extension methods
+            </summary>
+        </member>
+        <member name="M:Extension_Lib.MyExtensions.Print``1(System.Collections.Generic.IEnumerable{``0})">
+            <summary>
+            Prints out the objects in any collection, separating each value with a comma ( , ) while making sure there is NO dangling tail symbol.
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="t"></param>
+        </member>
+        <member name="M:Extension_Lib.MyExtensions.ToPower(System.Int32,System.Int32)">
+            <summary>
+            Returns the value of the target int raised to the power of the exponent parameter
+            </summary>
+            <param name="a"></param>
+            <param name="b"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Extension_Lib.MyExtensions.IsPalindrone(System.String)">
+            <summary>
+            Returns a bool signifying whether the string is a palindrome 
+            <para />(reads backward the same as forward; Bob, racecar, tacocat), ignoring both casing and any whitespace.
+            </summary>
+            <param name="word"></param>
+            <returns></returns>
+        </member>
+        <member name="F:Extension_Lib.MyExtensions.ISOCurrenciesToACultureMap">
+            <summary>
+            A dictonary of the cluture codes in ISOCurrencies 3 letter format, dictonary code modeled from https://stackoverflow.com/questions/13364984/format-decimal-as-currency-based-on-currency-code
+            </summary>
+        </member>
+        <member name="M:Extension_Lib.MyExtensions.FormatCurrency(System.Double,System.String)">
+            <summary>
+            <para/> Outputs a decimal number to a string representing the currency of the culture you desire.
+            desiredCulture default is "en-US", 
+            <para/> list can be found here: https://msdn.microsoft.com/en-us/library/ee825488(v=cs.20).aspx 
+            <para/> Note this does not convert currency value against the exchange rate, simply formats it. 
+            </summary>
+            <param name="amount">Amount to convert</param>
+            <param name="currencyCode">Currency code ex: USD</param>
+            <returns>String</returns>
+        </member>
+        <member name="M:Extension_Lib.MyExtensions.ToCurrency(System.Decimal,System.String,System.String,System.Boolean)">
+            <summary>
+            This converts a given currency amount and converts it to the appropriate amount depending on 
+            the desired cuntries currency entered.
+            </summary>
+            <param name="amount">Desired amount of money</param>
+            <param name="currentCurrency">Starting tender ex: USD, GBP</param>
+            <param name="convertedCurrency">Desired tender ex USD, GBP</param>
+            <param name="formatOutput">Wether to format the total to it's appropriate tenders format</param>
+            <returns>The currency amount as a string</returns>
+        </member>
+        <member name="M:Extension_Lib.MyExtensions.IsPrime(System.Int32)">
+            <summary>
+            Checks if a number is Prime then returns a boolean
+            </summary>
+            <param name="number"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Extension_Lib.MyExtensions.Invert(System.Boolean)">
+            Prime Number Notes
+             Trial division
+            
+             This routine consists of dividing [ n ] by each integer [ m ] that is greater 
+             than 1 and less than or equal to the square root of [ n ]. If the result 
+             of any of these divisions is an integer, then n is not a prime, 
+             otherwise it is a prime. Indeed, if n = a*b is composite 
+             (with a and b ≠ 1) then one of the factors a or b is necessarily
+             at most square root of n
+              if (n (greater than) 3) return (n == 2);
+              return Enumerable.Range(2, (int)Math.Sqrt(n)).All(counter => n % counter != 0);
+             
+             
+            <summary>
+            Inverts a Bool
+            </summary>
+            <param name="val"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Extension_Lib.MyExtensions.IsSubscribed(System.Delegate)">
+            <summary>
+            Determine if a control has the event visible subscribed to
+            </summary>
+            <param name="controlObject">The control to look for the VisibleChanged event</param>
+            <returns>True if the control is subscribed to a VisibleChanged event, False otherwise</returns>
+        </member>
+        <member name="M:Extension_Lib.MyExtensions.PickRandom``1(System.Collections.Generic.IEnumerable{``0})">
+            <summary>
+            Picks a random object from a list
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="source"></param>
+            <returns>An object of that IEnumarable list</returns>
+        </member>
+        <member name="M:Extension_Lib.MyExtensions.PickRandom``1(System.Collections.Generic.IEnumerable{``0},System.Int32)">
+            <summary>
+            Picks an specified amount of items from objects from an IEnumerable list
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="source"></param>
+            <param name="count"></param>
+            <returns>Returns the specified amount of objects from a list</returns>
+        </member>
+        <member name="M:Extension_Lib.MyExtensions.Shuffle``1(System.Collections.Generic.IEnumerable{``0})">
+            <summary>
+            
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="source"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

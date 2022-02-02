@@ -1,0 +1,35 @@
+D:\Google Drive\Class Folders\Class CSC160\VS Files\DataBindingExercise\DataBindingExercise\DataBindingExercise\bin\Debug\DataBindingExercise.exe.config
+D:\Google Drive\Class Folders\Class CSC160\VS Files\DataBindingExercise\DataBindingExercise\DataBindingExercise\bin\Debug\DataBindingExercise.exe
+D:\Google Drive\Class Folders\Class CSC160\VS Files\DataBindingExercise\DataBindingExercise\DataBindingExercise\bin\Debug\DataBindingExercise.pdb
+D:\Google Drive\Class Folders\Class CSC160\VS Files\DataBindingExercise\DataBindingExercise\DataBindingExercise\obj\Debug\DataBindingExercise.csprojResolveAssemblyReference.cache
+D:\Google Drive\Class Folders\Class CSC160\VS Files\DataBindingExercise\DataBindingExercise\DataBindingExercise\obj\Debug\MainWindow.g.cs
+D:\Google Drive\Class Folders\Class CSC160\VS Files\DataBindingExercise\DataBindingExercise\DataBindingExercise\obj\Debug\App.g.cs
+D:\Google Drive\Class Folders\Class CSC160\VS Files\DataBindingExercise\DataBindingExercise\DataBindingExercise\obj\Debug\DataBindingExercise_MarkupCompile.cache
+D:\Google Drive\Class Folders\Class CSC160\VS Files\DataBindingExercise\DataBindingExercise\DataBindingExercise\obj\Debug\DataBindingExercise_MarkupCompile.lref
+D:\Google Drive\Class Folders\Class CSC160\VS Files\DataBindingExercise\DataBindingExercise\DataBindingExercise\obj\Debug\MainWindow.baml
+D:\Google Drive\Class Folders\Class CSC160\VS Files\DataBindingExercise\DataBindingExercise\DataBindingExercise\obj\Debug\DataBindingExercise.g.resources
+D:\Google Drive\Class Folders\Class CSC160\VS Files\DataBindingExercise\DataBindingExercise\DataBindingExercise\obj\Debug\DataBindingExercise.Properties.Resources.resources
+D:\Google Drive\Class Folders\Class CSC160\VS Files\DataBindingExercise\DataBindingExercise\DataBindingExercise\obj\Debug\DataBindingExercise.csproj.GenerateResource.Cache
+D:\Google Drive\Class Folders\Class CSC160\VS Files\DataBindingExercise\DataBindingExercise\DataBindingExercise\obj\Debug\DataBindingExercise.exe
+D:\Google Drive\Class Folders\Class CSC160\VS Files\DataBindingExercise\DataBindingExercise\DataBindingExercise\obj\Debug\DataBindingExercise.pdb
+D:\Google Drive\Class Folders\Class CSC160\VS Files\DataBindingExercise\DataBindingExercise\DataBindingExercise\bin\Debug\ExtensionMethods.dll
+D:\Google Drive\Class Folders\Class CSC160\VS Files\DataBindingExercise\DataBindingExercise\DataBindingExercise\bin\Debug\ExtensionMethods.pdb
+D:\Google Drive\Class Folders\Class CSC160\VS Files\DataBindingExercise\DataBindingExercise\DataBindingExercise\bin\Debug\ExtensionMethods.dll.config
+D:\Google Drive\Class Folders\Class CSC160\VS Files\DataBindingExercise\DataBindingExercise\DataBindingExercise\bin\Debug\ExtensionMethods.xml
+D:\Google Drive\Class Folders\Class CSC160\Course Retake Files\DatabindingAssignment\DataBindingExercise\DataBindingExercise\DataBindingExercise\bin\Debug\DataBindingExercise.exe.config
+D:\Google Drive\Class Folders\Class CSC160\Course Retake Files\DatabindingAssignment\DataBindingExercise\DataBindingExercise\DataBindingExercise\bin\Debug\DataBindingExercise.exe
+D:\Google Drive\Class Folders\Class CSC160\Course Retake Files\DatabindingAssignment\DataBindingExercise\DataBindingExercise\DataBindingExercise\bin\Debug\DataBindingExercise.pdb
+D:\Google Drive\Class Folders\Class CSC160\Course Retake Files\DatabindingAssignment\DataBindingExercise\DataBindingExercise\DataBindingExercise\bin\Debug\ExtensionMethods.pdb
+D:\Google Drive\Class Folders\Class CSC160\Course Retake Files\DatabindingAssignment\DataBindingExercise\DataBindingExercise\DataBindingExercise\bin\Debug\ExtensionMethods.xml
+D:\Google Drive\Class Folders\Class CSC160\Course Retake Files\DatabindingAssignment\DataBindingExercise\DataBindingExercise\DataBindingExercise\bin\Debug\ExtensionMethods.dll.config
+D:\Google Drive\Class Folders\Class CSC160\Course Retake Files\DatabindingAssignment\DataBindingExercise\DataBindingExercise\DataBindingExercise\obj\Debug\DataBindingExercise.csprojResolveAssemblyReference.cache
+D:\Google Drive\Class Folders\Class CSC160\Course Retake Files\DatabindingAssignment\DataBindingExercise\DataBindingExercise\DataBindingExercise\obj\Debug\MainWindow.g.cs
+D:\Google Drive\Class Folders\Class CSC160\Course Retake Files\DatabindingAssignment\DataBindingExercise\DataBindingExercise\DataBindingExercise\obj\Debug\App.g.cs
+D:\Google Drive\Class Folders\Class CSC160\Course Retake Files\DatabindingAssignment\DataBindingExercise\DataBindingExercise\DataBindingExercise\obj\Debug\DataBindingExercise_MarkupCompile.cache
+D:\Google Drive\Class Folders\Class CSC160\Course Retake Files\DatabindingAssignment\DataBindingExercise\DataBindingExercise\DataBindingExercise\obj\Debug\DataBindingExercise_MarkupCompile.lref
+D:\Google Drive\Class Folders\Class CSC160\Course Retake Files\DatabindingAssignment\DataBindingExercise\DataBindingExercise\DataBindingExercise\obj\Debug\MainWindow.baml
+D:\Google Drive\Class Folders\Class CSC160\Course Retake Files\DatabindingAssignment\DataBindingExercise\DataBindingExercise\DataBindingExercise\obj\Debug\DataBindingExercise.g.resources
+D:\Google Drive\Class Folders\Class CSC160\Course Retake Files\DatabindingAssignment\DataBindingExercise\DataBindingExercise\DataBindingExercise\obj\Debug\DataBindingExercise.Properties.Resources.resources
+D:\Google Drive\Class Folders\Class CSC160\Course Retake Files\DatabindingAssignment\DataBindingExercise\DataBindingExercise\DataBindingExercise\obj\Debug\DataBindingExercise.csproj.GenerateResource.Cache
+D:\Google Drive\Class Folders\Class CSC160\Course Retake Files\DatabindingAssignment\DataBindingExercise\DataBindingExercise\DataBindingExercise\obj\Debug\DataBindingExercise.exe
+D:\Google Drive\Class Folders\Class CSC160\Course Retake Files\DatabindingAssignment\DataBindingExercise\DataBindingExercise\DataBindingExercise\obj\Debug\DataBindingExercise.pdb
